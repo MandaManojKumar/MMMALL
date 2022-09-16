@@ -1,2 +1,2 @@
 # MMMALL
-E commerce website which is designed by me
+E commerce website which is designed by me (Front End)
